@@ -1,0 +1,22 @@
+CUSTOMER,NAME,COUNTRY,EMAIL_ADDRESS,PHONE_NUMBER,GENDER,NATIONAL_ID,CREDITCARD_NUMBER,CREDITCARD_TYPE,CREDITCARD_EXP,CREDITCARD_CVV,EDUCATION,EMPLOYMENT_STATUS,INCOME,MARITAL_STATUS,CUSTOMER_LIFETIME_VALUE,NUMBER_OF_POLICIES,NUMBER_OF_CLOSED_COMPLAINTS,NUMBER_OF_COMMUNICATIONS,NUMBER_OF_COMPLAINTS,NUMBER_OF_OPEN_COMPLAINTS
+CW12345,Amy Blanks,US,ablanks@renovations.com,116-898-9983,Female,757-751-692,45186546347123700,VISA,20-Jul,135,Master,Employed,79487,Divorced,5328.320299,7,0,2,5,0
+CY67890,Samantha Daryn,US,sdaryn@renovations.com,808-154-3187,Male,899-661-697,44023473216171000,VISA,20-Jul,246,College,Employed,74965,Married,4335.353131,1,0,8,0,0
+AL12345,Raj Patel,US,rpatel@zetabank.com,933-803-7556,Male,466-859-914,48218829908156000,VISA,20-Apr,579,College,Employed,67763,Married,25093.57037,2,2,1,5,0
+AP67890,Natalie Lane,US,nlane@renovations.com,908-950-8947,Male,476-919-778,48348835049086400,VISA,23-Nov,680,College,Employed,64749,Married,8255.76385,4,0,7,3,0
+AP12345,William Smith,US,wsmith@zetabank.com,652-567-5463,Male,868-735-446,44844021961653500,VISA,19-Apr,531,College,Unemployed,0,Single,6612.220871,9,0,7,1,2
+AU67890,Ted Mendez,US,tmendez@renovations.com,774-115-9759,Male,576-798-458,46828559176468600,VISA,22-Oct,642,Bachelor,Unemployed,0,Single,4471.778239,1,0,2,2,0
+AV12345,Maya Rhodes,US,mrhodes@zetabank.com,978-748-7945,Male,825-801-312,36301118182636600,Master Card,18-Jun,975,Bachelor,Employed,75685,Married,2581.022016,1,0,4,7,0
+AW67890,Sarah Williams,US,swilliams@zetabank.com,570-271-4598,Female,466-895-578,55534075571992300,American Express,22-Jul,6482,High School or Below,Unemployed,0,Single,9101.523916,7,2,4,4,0
+BJ12345,Natalie Olmos,US,nolmos@zetabank.com,189-562-6999,Male,627-856-685,33256109809876400,Master Card,22-Mar,315,High School or Below,Employed,93558,Married,5918.066128,3,2,7,5,0
+BL67890,Dan Misawa,US,dmisawa@renovations.com,791-436-7782,Male,623-430-781,39354550404049200,Master Card,20-Apr,351,High School or Below,Unemployed,0,Single,9927.049694,2,1,4,8,0
+BZ12345,Renata Washington,US,rwashington@renovations.com,377-782-1454,Male,490-728-856,40389577370905700,VISA,22-Sep,624,College,Employed,59744,Married,16985.49688,7,2,8,3,0
+CO67890,Minh Li,US,mli@zetabank.com,476-920-7579,Male,359-526-580,58816829383075400,American Express,18-Jul,6411,College,Employed,98473,Married,7735.465528,3,1,9,4,0
+CS12345,Gail Chao,US,gchao@zetabank.com,663-468-4797,Female,242-544-208,30319853639500100,Master Card,20-Jun,957,College,Retired,21073,Divorced,12036.62051,2,0,1,7,0
+AF67890,Franando Brion,US,frion@renovations.com,434-815-2867,Male,751-362-463,36084049427910300,Master Card,23-Nov,759,College,Unemployed,0,Married,5394.703229,3,2,7,7,0
+AK12345,Paul Zhou,US,pzhou@renovations.com,203-434-6418,Female,924-628-420,50770100999825700,American Express,23-Sep,3748,Bachelor,Employed,72149,Married,2580.849899,1,0,4,7,0
+AM67890,Sally Brown,US,sbrown@renovations.com,633-138-9851,Male,670-803-636,42400511209929100,VISA,19-Jun,240,High School or Below,Employed,64125,Married,7582.113842,2,1,6,2,0
+BQ12345,Al Moreno,US,amoreno@zetabank.com,665-962-2828,Male,249-512-196,57309902281367200,American Express,23-May,5734,College,Unemployed,0,Single,22067.728,2,1,9,2,0
+BD67890,Ron Espinosa,US,respinosa@renovations.com,797-924-9861,Female,300-656-561,51460176063943600,American Express,18-Aug,2137,High School or Below,Unemployed,0,Single,7269.338677,8,0,1,2,2
+AU12345,Vijay Nehru,US,vnehru@zetabank.com,623-620-9788,Male,192-618-891,39645090728469400,Master Card,18-Mar,249,College,Unemployed,0,Single,4077.501164,1,0,8,0,0
+BS67890,Laura Chan,US,lchan@renovations.com,154-495-1388,Male,971-190-440,47881064445859800,VISA,21-Apr,761,High School or Below,Unemployed,0,Married,19357.79964,2,2,1,1,0
+CN12345,Beth Dawley,US,bdawley@renovations.com,956-522-8843,Female,211-995-613,58826997805799500,American Express,22-Dec,2468,Doctor,Employed,74592,Married,26346.08582,2,1,9,3,0
